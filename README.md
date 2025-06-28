@@ -58,14 +58,25 @@ It calculates **accuracy** based on how many incorrect guesses you made, and giv
 
 ---
 
-## 📂 Project Structure
+## 📁 Project Structure
+
+Below is the folder structure of the project with a short description of each file:
 
 Guess-the-number-game/
-├── index.html # Main HTML file (structure/layout)
-├── style.css # CSS styling and animations
-├── script.js # Game logic in JavaScript
-├── Screenshot.png # (Optional) Screenshot used in README
-└── README.md # Project documentation
+├── index.html       → Main game UI structure and number input form  
+├── style.css        → CSS styling for animated background, buttons, inputs  
+├── script.js        → JavaScript logic (number comparison, accuracy, restart)  
+├── Screenshot.png   → Screenshot used in README   
+└── README.md        → Project overview and documentation  
+
+---
+
+## 👨‍💻 Author
+
+Made with ❤️ by [Vineet Kumar Yadav](https://www.linkedin.com/in/vineet-yadav-68059533a/)  
+🎓 B.Tech (IT) – IIIT Sonepat  
+📫 vineetyadav8429@gmail.com
+
 
 
 
