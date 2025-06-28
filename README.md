@@ -54,9 +54,18 @@ It calculates **accuracy** based on how many incorrect guesses you made, and giv
 
 ## 📸 Screenshots
 
-
+![Screenshot 2025-06-28 183530](https://github.com/user-attachments/assets/c120a97f-a695-4b1a-9c23-7f9f71ce5f37)
 
 ---
 
 ## 📂 Project Structure
+
+Guess-the-number-game/
+├── index.html # Main HTML file (structure/layout)
+├── style.css # CSS styling and animations
+├── script.js # Game logic in JavaScript
+├── Screenshot.png # (Optional) Screenshot used in README
+└── README.md # Project documentation
+
+
 
